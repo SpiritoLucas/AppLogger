@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>lucass</Authors>
+    <Company>Broidery</Company>
+    <PackageId>Broidery.Util.AppLogger</PackageId>
+    <Description>Logger para el backend de Broidery</Description>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
