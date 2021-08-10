@@ -1,4 +1,6 @@
-﻿namespace AppLogger
+﻿using System;
+
+namespace AppLogger
 {
     public class Logger
     {
